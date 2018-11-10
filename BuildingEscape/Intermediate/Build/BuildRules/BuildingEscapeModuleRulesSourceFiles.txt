@@ -1,3 +1,0 @@
-D:\Unreal Course Projects\Section_03\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
-D:\Unreal Course Projects\Section_03\BuildingEscape\Source\BuildingEscape.Target.cs
-D:\Unreal Course Projects\Section_03\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
